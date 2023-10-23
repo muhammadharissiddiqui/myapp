@@ -4,7 +4,6 @@ class myapp{
 		System.out.println("Cyber Security 6th");
                 System.out.println("Devops Git Demo");
 		System.out.println("Statement");
-		System.out.println("Statement1");
                 myapp005 obj005 = new myapp005();
 		obj005.printInfo();
 		myapp011 obj011 = new myapp011();
